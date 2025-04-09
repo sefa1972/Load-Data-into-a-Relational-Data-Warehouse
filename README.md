@@ -22,10 +22,10 @@ This lab demonstrates the process of loading data into a relational data warehou
 6. **Loaded Slowly Changing Dimension (SCD) Table using INSERT and UPDATE**  
    Combined `INSERT` and `UPDATE` statements to dynamically load and update a Slowly Changing Dimension (SCD) table, ensuring accurate historical data tracking.
 
-7. **Optimized Post-Load**  
+8. **Optimized Post-Load**  
    Applied optimization techniques to improve query performance and reduce resource usage in the data warehouse.
 
-8. **Cleaned Up Resources**  
+9. **Cleaned Up Resources**  
    Deleted unnecessary Azure resources to avoid unnecessary costs and maintain a cost-efficient cloud environment.
 
 ## Conclusion
