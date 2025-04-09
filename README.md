@@ -1,4 +1,4 @@
-# Azure Synapse Analytics Lab-9: Load Data into a Relational Data Warehouse
+# Load Data into a Relational Data Warehouse
 
 This lab demonstrates the process of loading data into a relational data warehouse using **Azure Synapse Analytics**. Below is the summary of the tasks I completed during the lab:
 
